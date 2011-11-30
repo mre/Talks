@@ -1,0 +1,2938 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3099"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Cuda-Cube.svg"
+   inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+   inkscape:export-xdpi="15.34"
+   inkscape:export-ydpi="15.34">
+  <defs
+     id="defs3101">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1934.9044 : 67.930246 : 1"
+       id="perspective3107" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1932.6842 : 164.57747 : 1"
+       id="perspective3107-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="2043.0027 : 215.75823 : 1"
+       id="perspective3107-9-5" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="2045.2229 : 119.111 : 1"
+       id="perspective3107-2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1943.2229 : 164.82528 : 1"
+       id="perspective3107-2-5" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1941.0027 : 261.47251 : 1"
+       id="perspective3107-9-5-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1836.6515 : 113.39671 : 1"
+       id="perspective3107-2-5-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1834.4313 : 210.04394 : 1"
+       id="perspective3107-9-5-6-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1936.9699 : -26.975004 : 1"
+       id="perspective3107-9-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1838.717 : 18.49146 : 1"
+       id="perspective3107-9-5-6-4-7" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1939.1901 : -123.62223 : 1"
+       id="perspective3107-5" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1840.9372 : -78.155765 : 1"
+       id="perspective3107-2-5-8-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="2047.2884 : 24.20575 : 1"
+       id="perspective3107-9-5-5" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="2049.5086 : -72.441475 : 1"
+       id="perspective3107-2-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1945.2884 : 69.92003 : 1"
+       id="perspective3107-9-5-6-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1947.5086 : -26.727194 : 1"
+       id="perspective3107-2-5-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1734.827 : 248.80123 : 1"
+       id="perspective3107-9-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1636.5741 : 294.2677 : 1"
+       id="perspective3107-9-5-6-4-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1737.0472 : 152.154 : 1"
+       id="perspective3107-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1638.7943 : 197.62047 : 1"
+       id="perspective3107-2-5-8-7" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1845.1455 : 299.98199 : 1"
+       id="perspective3107-9-5-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1847.3657 : 203.33476 : 1"
+       id="perspective3107-2-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1743.1455 : 345.69627 : 1"
+       id="perspective3107-9-5-6-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1745.3657 : 249.04904 : 1"
+       id="perspective3107-2-5-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1739.1127 : 57.248753 : 1"
+       id="perspective3107-9-9-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1640.8598 : 102.71522 : 1"
+       id="perspective3107-9-5-6-4-7-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1741.3329 : -39.398467 : 1"
+       id="perspective3107-5-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1643.08 : 6.067993 : 1"
+       id="perspective3107-2-5-8-6-5" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1849.4312 : 108.42951 : 1"
+       id="perspective3107-9-5-5-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1851.6514 : 11.782283 : 1"
+       id="perspective3107-2-3-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1747.4312 : 154.14379 : 1"
+       id="perspective3107-9-5-6-0-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1749.6514 : 57.496563 : 1"
+       id="perspective3107-2-5-4-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1713.7556 : 66.689349 : 1"
+       id="perspective3107-9-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1615.5027 : 112.15582 : 1"
+       id="perspective3107-9-5-6-4-83" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1715.9758 : -29.957876 : 1"
+       id="perspective3107-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1617.7229 : 15.508589 : 1"
+       id="perspective3107-2-5-8-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1824.0741 : 117.87011 : 1"
+       id="perspective3107-9-5-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1826.2943 : 21.222879 : 1"
+       id="perspective3107-2-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1722.0741 : 163.58439 : 1"
+       id="perspective3107-9-5-6-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1724.2943 : 66.937159 : 1"
+       id="perspective3107-2-5-2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1718.0413 : -124.86313 : 1"
+       id="perspective3107-9-9-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1619.7884 : -79.396666 : 1"
+       id="perspective3107-9-5-6-4-7-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1720.2615 : -221.51036 : 1"
+       id="perspective3107-5-2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1622.0086 : -176.04389 : 1"
+       id="perspective3107-2-5-8-6-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1828.3598 : -73.682376 : 1"
+       id="perspective3107-9-5-5-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1830.58 : -170.3296 : 1"
+       id="perspective3107-2-3-09" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1726.3598 : -27.968096 : 1"
+       id="perspective3107-9-5-6-0-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1728.58 : -124.61532 : 1"
+       id="perspective3107-2-5-4-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1515.8984 : 150.91311 : 1"
+       id="perspective3107-9-4-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1417.6455 : 196.37957 : 1"
+       id="perspective3107-9-5-6-4-8-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1518.1186 : 54.265879 : 1"
+       id="perspective3107-8-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1419.8657 : 99.732349 : 1"
+       id="perspective3107-2-5-8-7-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1626.2169 : 202.09386 : 1"
+       id="perspective3107-9-5-1-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1628.4371 : 105.44664 : 1"
+       id="perspective3107-2-9-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1524.2169 : 247.80814 : 1"
+       id="perspective3107-9-5-6-3-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1526.4371 : 151.16092 : 1"
+       id="perspective3107-2-5-1-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1520.1841 : -40.639366 : 1"
+       id="perspective3107-9-9-1-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1421.9312 : 4.8270993 : 1"
+       id="perspective3107-9-5-6-4-7-4-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1522.4043 : -137.28659 : 1"
+       id="perspective3107-5-9-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1424.1514 : -91.820126 : 1"
+       id="perspective3107-2-5-8-6-5-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1630.5026 : 10.541389 : 1"
+       id="perspective3107-9-5-5-9-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1632.7228 : -86.105836 : 1"
+       id="perspective3107-2-3-0-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1528.5026 : 56.255669 : 1"
+       id="perspective3107-9-5-6-0-9-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-372.0473 : 175.3937 : 0"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="372.0472 : 175.3937 : 0"
+       inkscape:persp3d-origin="1530.7228 : -40.391556 : 1"
+       id="perspective3107-2-5-4-3-1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.23559188"
+     inkscape:cx="-3178.0742"
+     inkscape:cy="3994.3667"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9149"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <g
+         id="g7445">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388"
+           style="fill:#519900;fill-opacity:0.84705883;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390"
+           style="fill:#60b303;fill-opacity:0.80128205;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7"
+         transform="translate(93.547311,45.769896)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9"
+         transform="translate(-97.901808,46.504246)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4"
+         transform="translate(-4.3544802,92.274118)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-4"
+         transform="translate(-1.220574,-111.84898)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-1"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-4"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-2"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-74"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-4"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-4"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-7"
+         transform="translate(92.326754,-66.079109)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-8"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-8"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-4"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-75"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-26"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-7"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-5"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9-4"
+         transform="translate(-99.122374,-65.344781)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5-4"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0-8"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7-3"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7-3"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5-0"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8-4"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6-0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4-2"
+         transform="translate(-5.0723498,-20.077605)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7-4"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6-5"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8-9"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7-4"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2-5"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9-9"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-2"
+         transform="translate(189.01183,90.809141)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-9"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-03"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-76"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-3"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-3"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-62"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-62"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-8"
+         transform="translate(282.55913,136.57904)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-1"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-64"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-9"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-2"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-9"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9-45"
+         transform="translate(91.11003,137.31334)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5-5"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0-83"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7-34"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7-6"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5-5"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8-0"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6-5"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4-7"
+         transform="translate(184.65733,183.08324)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7-3"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6-2"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8-1"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7-47"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1-7"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9-1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-4-0"
+         transform="translate(187.79123,-21.039859)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-1-3"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-4-0"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-2-9"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-74-0"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-4-2"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-6-1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-4-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-7-2"
+         transform="translate(281.33853,24.730041)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-8-0"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-8-9"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-4-4"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-75-8"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-26-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-7-7"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-5-9"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9-4-0"
+         transform="translate(89.88943,25.464341)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5-4-9"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0-8-8"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7-3-3"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7-3-8"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5-0-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8-4-1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6-0-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4-2-8"
+         transform="translate(183.93943,70.731541)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7-4-0"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6-5-1"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8-9-9"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7-4-1"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2-5-7"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1-6-4"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9-9-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-95"
+         transform="translate(-194.78886,93.301354)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-7"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-8"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-0"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-4"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-0"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-80"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-3"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-3"
+         transform="translate(-101.24156,139.07125)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-13"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-642"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-92"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-21"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-5"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-5"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9-40"
+         transform="translate(-292.69066,139.80555)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5-6"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0-3"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7-8"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7-63"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5-9"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8-3"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4-8"
+         transform="translate(-199.14336,185.57545)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7-1"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6-9"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8-91"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7-5"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2-3"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1-8"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9-2"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-4-8"
+         transform="translate(-196.00946,-18.547646)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-1-1"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-4-9"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-2-1"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-74-3"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-4-3"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-6-0"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-4-3"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-7-26"
+         transform="translate(-102.46216,27.222254)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-8-06"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-8-2"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-4-6"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-75-2"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-26-4"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-7-2"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-5-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9-4-09"
+         transform="translate(-293.91126,27.956554)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5-4-2"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0-8-4"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7-3-5"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7-3-2"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5-0-2"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8-4-4"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6-0-9"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4-2-3"
+         transform="translate(-199.86126,73.223754)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7-4-7"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6-5-7"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8-9-5"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7-4-4"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2-5-3"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1-6-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9-9-4"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-5"
+         transform="translate(-7.4502315,184.98041)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-72"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-21"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-8"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-5"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-7"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-82"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-7"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-6"
+         transform="translate(86.09707,230.75031)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-6"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-2"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-40"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-9"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-55"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-51"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-3"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9-8"
+         transform="translate(-105.35203,231.48461)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5-48"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0-5"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7-4"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7-5"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6-03"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4-80"
+         transform="translate(-11.804731,277.25451)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7-9"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6-0"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8-7"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7-9"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2-8"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1-77"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9-0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-4-1"
+         transform="translate(-8.6708315,73.131408)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-1-11"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-4-8"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-2-2"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-74-9"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-4-26"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-6-9"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-4-64"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-7-8"
+         transform="translate(84.87647,118.90131)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-8-7"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-8-3"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-4-47"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-75-9"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-26-0"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-7-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-5-0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-9-4-6"
+         transform="translate(-106.57263,119.63561)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-5-4-0"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-0-8-2"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-7-3-52"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-7-3-6"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-5-0-4"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-8-4-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-6-0-93"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g7445-7-4-2-7"
+         transform="translate(-12.522631,164.90281)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7386-0-7-4-71"
+           style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+           d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7388-2-6-5-9"
+           style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7390-3-8-9-59"
+           style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+           d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <g
+           id="g7404-2-7-4-9"
+           transform="translate(-208,-31)">
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+             style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+             id="path7392-9-2-5-1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+             style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+             id="path7394-3-1-6-9"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+             style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+             id="path7396-8-9-9-3"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g7445-8"
+       transform="translate(-2.1685324,-223.90291)"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-8"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-3"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-5"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-52">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-73"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-1"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-9"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(91.378779,-178.13301)"
+       id="g7445-7-5"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-64"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-5"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-90"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-8">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-69"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-95"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-56"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-100.07034,-177.39866)"
+       id="g7445-9-1"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-5-1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-0-35"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-7-46"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-7-33">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-5-03"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-8-36"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-6-2"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-6.5230126,-131.62879)"
+       id="g7445-7-4-28"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-7-2"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-6-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-8-8"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-7-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-2-4"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-1-62"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-9-4"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-3.3891064,-335.75189)"
+       id="g7445-4-9"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-1-5"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-4-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-2-91"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-74-8">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-4-1"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-6-12"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-4-1"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(90.158222,-289.98202)"
+       id="g7445-7-7-6"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-8-09"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-8-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-4-2"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-75-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-26-3"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-7-4"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-5-7"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-101.29091,-289.24769)"
+       id="g7445-9-4-4"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-5-4-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-0-8-0"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-7-3-7"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-7-3-80">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-5-0-9"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-8-4-2"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-6-0-61"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-7.2408822,-243.98051)"
+       id="g7445-7-4-2-6"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-7-4-76"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-6-5-76"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-8-9-6"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-7-4-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-2-5-0"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-1-6-7"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-9-9-0"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(186.8433,-133.09377)"
+       id="g7445-2-6"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-9-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-03-5"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-76-6"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-3-9">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-3-7"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-62-2"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-62-0"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(280.3906,-87.32387)"
+       id="g7445-7-8-6"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-1-4"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-64-0"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-9-7"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-2-4">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-6-5"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-9-3"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-6-1"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(88.941498,-86.58957)"
+       id="g7445-9-45-3"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-5-5-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-0-83-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-7-34-4"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-7-6-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-5-5-5"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-8-0-1"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-6-5-2"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(182.4888,-40.81967)"
+       id="g7445-7-4-7-6"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-7-3-5"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-6-2-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-8-1-9"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-7-47-5">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-2-6-0"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-1-7-2"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-9-1-6"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(185.6227,-244.94277)"
+       id="g7445-4-0-3"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-1-3-8"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-4-0-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-2-9-0"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-74-0-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-4-2-3"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-6-1-5"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-4-6-1"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(279.17,-199.17287)"
+       id="g7445-7-7-2-5"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-8-0-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-8-9-8"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-4-4-6"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-75-8-9">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-26-6-6"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-7-7-7"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-5-9-5"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(181.7709,-153.17137)"
+       id="g7445-7-4-2-8-4"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-7-4-0-5"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-6-5-1-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-8-9-9-7"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-7-4-1-8">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-2-5-7-6"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-1-6-4-0"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-9-9-6-6"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-196.95739,-130.60156)"
+       id="g7445-95-3"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-7-2"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-8-1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-0-8"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-4-3">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-0-1"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-80-2"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-3-9"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-103.41009,-84.83166)"
+       id="g7445-7-3-8"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-13-1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-642-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-92-2"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-21-7">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-5-3"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-5-8"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-1-0"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-294.85919,-84.09736)"
+       id="g7445-9-40-1"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-5-6-0"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-0-3-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-7-8-2"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-7-63-4">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-5-9-1"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-8-3-5"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-6-6-1"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-201.31189,-38.32746)"
+       id="g7445-7-4-8-9"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-7-1-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-6-9-3"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-8-91-3"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-7-5-7">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-2-3-8"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-1-8-8"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-9-2-1"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-198.17799,-242.45056)"
+       id="g7445-4-8-0"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-1-1-4"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-4-9-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-2-1-9"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-74-3-9">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-4-3-0"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-6-0-9"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-4-3-4"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-104.63069,-196.68066)"
+       id="g7445-7-7-26-7"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-8-06-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-8-2-1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-4-6-5"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-75-2-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-26-4-7"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-7-2-2"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-5-6-1"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-296.07979,-195.94636)"
+       id="g7445-9-4-09-9"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-5-4-2-1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-0-8-4-0"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-7-3-5-7"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-7-3-2-1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-5-0-2-3"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-8-4-4-8"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-6-0-9-5"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-202.02979,-150.67916)"
+       id="g7445-7-4-2-3-0"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-7-4-7-4"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-6-5-7-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-8-9-5-7"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-7-4-4-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-2-5-3-4"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-1-6-6-6"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-9-9-4-5"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-9.6187639,-38.9225)"
+       id="g7445-5-6"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-72-1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-21-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-8-2"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-5-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-7-0"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-82-7"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-7-4"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(83.928538,6.8474)"
+       id="g7445-7-6-5"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-0-6-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-2-2-5"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-3-40-2"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-2-9-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-9-55-1"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-3-51-8"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-8-3-4"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(-107.52056,7.5817)"
+       id="g7445-9-8-1"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
+      <path
+         d="m -2977.9883,-3476.4862 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+         style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+         id="path7386-5-48-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3432.6378 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+         style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+         id="path7388-0-5-3"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3071.0001,-3326.0664 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+         style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+         id="path7390-7-4-1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-208,-31)"
+         id="g7404-7-5-1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7392-5-6-6"
+           style="fill:#a0ff00;fill-opacity:0.91987179;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7394-8-6-2"
+           style="fill:#529a00;fill-opacity:0.84615383;fill-rule:evenodd;stroke:none"
+           d="m -2774,-3359.2092 0,106.5714 93.0118,-43.8484 0,-106.5714 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7396-6-03-0"
+           style="fill:#95da21;fill-opacity:0.86858975;fill-rule:evenodd;stroke:none"
+           d="m -2864.0001,-3401.6378 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7386-0-7-4-71-9"
+       style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+       d="m -3152.3202,-3111.3453 90.0002,42.4286 0,106.5714 -90.0002,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7388-2-6-5-9-3"
+       style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+       d="m -3245.332,-3067.4969 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7390-3-8-9-59-8"
+       style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+       d="m -3245.332,-2960.9255 90.0001,42.4286 93.0119,-43.8484 -90.0002,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7392-9-2-5-1-1"
+       style="fill:#00f4ff;fill-opacity:0.91987181;fill-rule:evenodd;stroke:none"
+       d="m -3246.332,-3067.4969 90.0001,42.4286 93.0119,-43.8484 -90.0002,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7394-3-1-6-9-0"
+       style="fill:#107f7c;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none"
+       d="m -3156.3319,-3025.0683 0,106.5714 93.0119,-43.8484 0,-106.5714 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7396-8-9-9-3-5"
+       style="fill:#00c5be;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none"
+       d="m -3246.332,-3067.4969 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7386-0-7-4-71-9-2"
+       style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+       d="m -3254.5547,-3060.7258 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7388-2-6-5-9-3-2"
+       style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+       d="m -3347.5665,-3016.8774 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7390-3-8-9-59-8-2"
+       style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+       d="m -3347.5665,-2910.306 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7392-9-2-5-1-1-4"
+       style="fill:#f7ff00;fill-opacity:0.91987181;fill-rule:evenodd;stroke:none"
+       d="m -3348.5665,-3016.8774 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7394-3-1-6-9-0-6"
+       style="fill:#c5c000;fill-opacity:0.98823529;fill-rule:evenodd;stroke:none"
+       d="m -3258.5664,-2974.4488 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7396-8-9-9-3-5-9"
+       style="fill:#f1ef00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m -3348.5665,-3016.8774 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7386-0-7-4-71-9-4"
+       style="fill:#a1f80d;fill-opacity:0.92156863;fill-rule:evenodd;stroke:none"
+       d="m -3043.9694,-3058.1401 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7388-2-6-5-9-3-27"
+       style="fill:#519900;fill-opacity:0.84705882;fill-rule:evenodd;stroke:none"
+       d="m -3136.9812,-3014.2917 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7390-3-8-9-59-8-8"
+       style="fill:#60b303;fill-opacity:0.80128204;fill-rule:evenodd;stroke:none"
+       d="m -3136.9812,-2907.7203 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7392-9-2-5-1-1-7"
+       style="fill:#ff629f;fill-opacity:0.99607843;fill-rule:evenodd;stroke:none"
+       d="m -3137.9812,-3014.2917 90.0001,42.4286 93.0118,-43.8484 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7394-3-1-6-9-0-4"
+       style="fill:#9a005d;fill-opacity:0.84615386;fill-rule:evenodd;stroke:none"
+       d="m -3047.9811,-2971.8631 0,106.5714 93.0118,-43.8484 0,-106.5714 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7396-8-9-9-3-5-4"
+       style="fill:#e31c6a;fill-opacity:0.98823529;fill-rule:evenodd;stroke:none"
+       d="m -3137.9812,-3014.2917 90.0001,42.4286 0,106.5714 -90.0001,-42.4286 z"
+       inkscape:export-filename="/Users/matthiasendler/Documents/Arbeit/Uni Bayreuth/Semester 9/cuda/Grafiken/Cuda-Cube.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+  </g>
+</svg>

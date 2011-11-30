@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+}
+
+#preso, .slide {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+
+.content {
+  color: black;
+  font-family: "Museo Slab", Georgia, Helvetica;
+}
+
+.content > pre {
+  font-size: 200%;
+  line-height: 1.2;
+  margin-top: 40px;
+}
+
+h1, h2 {
+  color: #ED3887;
+}
+
+.highlight {
+  color: #ED3887;
+}
+
+caption {color: #F06; text-align: left;}
+table {font-size: 1.5em; margin-top: 100px; padding: 0; border-collapse: collapse; width: 100%;}
+td, th {padding: 10px 4px; border-bottom: 1px solid #EEE;}
+td a {color: #444; text-decoration: none; text-align: right;}
+td a, th a {display: block; width: 100%;}
+td a:hover {background: #444; color: #FFF;}
+tfoot th {text-align: right;}
+th {text-align: left;}
+th a {color: #F06; text-decoration: none; }
+th a:visited {color: #F69;}
+th a:hover {color: #F06; text-decoration: underline;}
+thead tr, tfoot tr {color: #555; }
+tr {background: url(img/row.png) repeat-x #F8F8F8; color: #666;}
+tr:hover { color: black; background-color: #FFFFcc; background-image: none; }
