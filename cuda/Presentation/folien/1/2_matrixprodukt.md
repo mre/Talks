@@ -4,7 +4,7 @@
 
 ![Cube](Grafiken/matrixmult1.png)
 
-!SLIDE
+<!SLIDE transition=fade>
 
 # Beispiel: Matrixprodukt
 
@@ -36,7 +36,7 @@
 ## Parallelisierung mit CUDA
 
     @@@ C
-    void mult_matrix(float *M, float *N, float *P) 
+    void mult_matrix(float *M, float *N, float *P)
     {
 
 
@@ -45,7 +45,7 @@
        * - Allocate device memory
        * - Copy matrices to device
        * - Perform calculation
-       * - Copy result and free matrices 
+       * - Copy result and free matrices
        */
 
 
@@ -57,7 +57,7 @@
 ## Parallelisierung mit CUDA
 
     @@@ C
-    void mult_matrix(float *M, float *N, float *P) 
+    void mult_matrix(float *M, float *N, float *P)
     {
       /* Allocate device memory */
       float *Md, *Nd, *Pd;
@@ -78,7 +78,7 @@
 ## Parallelisierung mit CUDA
 
     @@@ C
-    void mult_matrix(float *M, float *N, float *P) 
+    void mult_matrix(float *M, float *N, float *P)
     {
       /* Allocate device memory... */
 
@@ -99,7 +99,7 @@
 ## Parallelisierung mit CUDA
 
     @@@ C
-    void mult_matrix(float *M, float *N, float *P) 
+    void mult_matrix(float *M, float *N, float *P)
     {
       /* Allocate device memory... */
       /* Copy matrices to device... */
@@ -146,13 +146,13 @@
 ## Parallelisierung mit CUDA
 
     @@@ C
-    void mult_matrix(float *M, float *N, float *P) 
+    void mult_matrix(float *M, float *N, float *P)
     {
       /* Allocate device memory... */
       /* Copy matrices to device... */
       /* Perform calculation... */
 
-      /* Copy result from device to host */ 
+      /* Copy result from device to host */
       cudaMemcpy(P, Pd, size, cudaMemcpyDeviceToHost);
 
 
